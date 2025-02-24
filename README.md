@@ -1,5 +1,5 @@
 
-# CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation (CVPR 2023)
+# WintN-CSG: A Weakly Supervised Semantic Segmentation Network Based on Basic Multimodal Large-scale Pre-trained Models
 
 ![img.png](WintN-CSG.png)
 
